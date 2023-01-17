@@ -1,0 +1,6 @@
+cat
+dog
+tom apple
+tree plant square
+more less
+anna
