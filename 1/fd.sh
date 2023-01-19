@@ -6,7 +6,7 @@
 
 if [ $# -ne 3 ];
 then
-  echo "fd: illegal number of parameters"
+  echo "$0: illegal number of parameters"
   exit 1
 fi
 
