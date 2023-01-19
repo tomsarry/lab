@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Usage:
-#   fd SOURCE START END
-#   Print lines number START to END of SOURCE.
+#   ./fd.sh <file> <start> <end>
+#   Print lines number <start> to <end> of <file>.
 
 if [ $# -ne 3 ];
 then

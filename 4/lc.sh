@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Usage:
-#   lc <file1|dir1> [<file2|dir2> ...]
+#   ./lc.sh <file1|dir1> [<file2|dir2> ...]
 #   Specifies for each argument if it is a directory, or a file.
 #   For files, also provides the number of lines.
 

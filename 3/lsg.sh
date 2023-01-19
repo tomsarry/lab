@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Usage:
-#   lsg
+#   ./lsg.sh
 #   Lists all files in the current directory
 #       for which the user has read, write and execute permissions.
 

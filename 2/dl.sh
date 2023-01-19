@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Usage:
-#   dl TARGET [FILE1 FILE2 ...]
-#   Removes all lines containing the word TARGET in [FILE1 FILE2 ...].
+#   ./dl.sh <target> <file1> [<file2> ...]
+#   Removes all lines containing the word <target> in the specified files.
 
 if [ $# -lt 2 ]; then
   echo "$0: illegal number of parameters"
