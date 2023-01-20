@@ -1,0 +1,1 @@
+printf "a\nb\niab\nab\noi\niii\nb\nia\no\noa\n" > a.txt
